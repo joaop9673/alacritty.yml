@@ -1,2 +1,6 @@
-# alacritty.yml
-configurações que uso no meu alacritty.
+# alacritty settings
+
+Settings for Alacritty, a GPU-accelerated terminal emulator
+
+
+To install, clone the repository to ~/.config/alacritty.
